@@ -31,7 +31,7 @@ WebUI.setText(findTestObject('Object Repository/Login/input_Username_username'),
 
 WebUI.click(findTestObject('Object Repository/Login/input_Demo account_form-control'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
-
 WebUI.click(findTestObject('Object Repository/Login/button_Login'))
+
+WebUI.click(findTestObject('Check History Appointment/label_Apply for hospital readmission'))
 

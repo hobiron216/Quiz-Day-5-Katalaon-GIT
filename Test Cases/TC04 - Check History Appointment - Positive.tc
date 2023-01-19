@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC04 - Check History Appointment</name>
+   <name>TC04 - Check History Appointment - Positive</name>
    <tag>History Appointment</tag>
    <comment></comment>
    <testCaseGuid>5b8788f3-d9d5-4e90-9d19-51d010bce745</testCaseGuid>

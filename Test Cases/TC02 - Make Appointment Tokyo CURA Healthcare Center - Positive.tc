@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC02 - Make Appointment Tokyo CURA Healthcare Center</name>
+   <name>TC02 - Make Appointment Tokyo CURA Healthcare Center - Positive</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>e18304ff-417c-446f-ada4-7efb5fd59d78</testCaseGuid>
