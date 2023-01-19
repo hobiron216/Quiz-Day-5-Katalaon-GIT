@@ -35,6 +35,20 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Check History Appointme
 
 WebUI.click(findTestObject('Object Repository/Check History Appointment/button_Login'))
 
+WebUI.click(findTestObject('Object Repository/Check History Appointment/div_Make Appointment'))
+
+WebUI.click(findTestObject('Object Repository/Check History Appointment/label_Apply for hospital readmission'))
+
+WebUI.click(findTestObject('Object Repository/Check History Appointment/input_Visit Date (Required)_visit_date'))
+
+WebUI.click(findTestObject('Object Repository/Check History Appointment/td_17'))
+
+WebUI.setText(findTestObject('Object Repository/Check History Appointment/textarea_Comment_comment'), 'Test')
+
+WebUI.click(findTestObject('Object Repository/Check History Appointment/button_Book Appointment'))
+
+WebUI.click(findTestObject('Object Repository/Check History Appointment/a_Go to Homepage'))
+
 WebUI.click(findTestObject('Object Repository/Check History Appointment/a_CURA Healthcare_menu-toggle'))
 
 WebUI.click(findTestObject('Object Repository/Check History Appointment/a_History'))
