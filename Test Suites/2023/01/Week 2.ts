@@ -12,56 +12,56 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>9cffb82e-c8c4-48ed-ab35-b29ebbc26755</testSuiteGuid>
    <testCaseLink>
-      <guid>6a7e439b-46d9-443f-a1db-2a0ae0a19d17</guid>
+      <guid>9dabe3c6-4f97-431a-bb4b-7f837a10b81a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC01 - Login - Positive</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7adcb002-2c33-46e5-a67b-127da324afbe</guid>
+      <guid>e87476ce-e3cb-456a-b0ad-062184d96b83</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC02 - Make Appointment Tokyo CURA Healthcare Center - Positive</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>561dd9d3-66a3-40d7-ab3d-a14930b4bbec</guid>
+      <guid>0188c81a-2f9e-4546-a39c-351a3eea59da</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC03 - Logout - Positive</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>793f9711-e781-4600-869a-4964e8f81251</guid>
+      <guid>986e08cb-8d05-45f7-bbca-25dce31f15ca</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC04 - Check History Appointment - Positive</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>47e26dc2-5872-4e6e-9edc-308927133ea6</guid>
+      <guid>50467e4c-1508-4664-baf4-ee67ca58cd4a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC05 - Make Appointment Hongkong CURA Healthcare Center - Positive</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5267dd9b-36c4-4a12-ac58-6817ebf2f484</guid>
+      <guid>a40334c8-c834-4aee-8417-a197dccbc1c5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC06 - Login with blank username - Negative</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>390ce4a8-ea15-41f7-a19c-fb0ef5d74982</guid>
+      <guid>08e1f8db-edc8-410f-a384-89b4af95e02f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC07 - Login with not input username - Negative</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b95a5f63-a3cd-461f-b09f-a3a14fecfd36</guid>
+      <guid>76c865e2-1224-4a49-80c1-6bf2b1c3b9f0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC08 - Login with not input password - Negative</testCaseId>
