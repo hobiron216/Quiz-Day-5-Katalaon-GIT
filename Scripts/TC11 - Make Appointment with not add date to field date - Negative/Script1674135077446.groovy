@@ -21,15 +21,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-WebUI.click(findTestObject('Object Repository/Login/a_CURA Healthcare_menu-toggle'))
+WebUI.click(findTestObject('Object Repository/Make Appointment Tokyo CURA Healthcare Center/a_Make Appointment'))
 
-WebUI.click(findTestObject('Object Repository/Login/a_Login'))
+WebUI.click(findTestObject('Object Repository/Make Appointment Tokyo CURA Healthcare Center/div_Demo account'))
 
-WebUI.click(findTestObject('Object Repository/Login/div_Demo account'))
+WebUI.setText(findTestObject('Object Repository/Make Appointment Tokyo CURA Healthcare Center/input_Username_username'), 
+    'John Doe')
 
-WebUI.click(findTestObject('Object Repository/Login/input_Demo account_form-control'))
+WebUI.click(findTestObject('Object Repository/Make Appointment Tokyo CURA Healthcare Center/div_Demo account_col-sm-offset-4 col-sm-8'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+WebUI.setEncryptedText(findTestObject('Object Repository/Make Appointment Tokyo CURA Healthcare Center/input_Password_password'), 
+    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 
-WebUI.click(findTestObject('Object Repository/Login/button_Login'))
+WebUI.click(findTestObject('Object Repository/Make Appointment Tokyo CURA Healthcare Center/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Make Appointment Tokyo CURA Healthcare Center/label_Apply for hospital readmission'))
+
+WebUI.click(findTestObject('Object Repository/Make Appointment Tokyo CURA Healthcare Center/button_Book Appointment'))
+
+WebUI.click(findTestObject('Object Repository/Make Appointment Tokyo CURA Healthcare Center/a_Go to Homepage'))
 
